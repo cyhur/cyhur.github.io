@@ -1,0 +1,77 @@
+body {
+  font: 10px sans-serif;
+}
+
+.hmap {
+  position:absolute; width:100%; height:330px; left:0px; top:120px;
+  
+}
+.hmain {
+  height:270px;
+}
+.ui-content {
+  padding:0px;
+}
+
+.m_window {
+  width:180px;height:116px;border:0px solid #09F;
+}
+.m_h_meta {
+  margin-left:5px; margin-top:5px; width:180px; height:80px;
+}
+.m_h_meta2 {
+  width:180px; height:30px; bottom:0px; background-color: #f6f6f6;
+}
+.m_h_meta_ul {
+  position:absolute; list-style:none; top:15px; width:250px; margin:0; padding:0; font-size:12px;
+}
+.m_h_name {
+  font-size:14px; font-weight:bold;
+}
+.m_h_name2 {
+  margin-top:3px;
+}
+.m_h_route {
+  list-style:none; margin:0; padding:0;
+}
+.m_h_route_s {
+  font-size:12px; float:right;
+}
+
+.impression {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}	
+.service{
+	position: absolute;
+	top: 0px;
+	left: 400px;
+}	
+.process {
+	position: absolute;
+	top: 250px;
+	left: 0px;
+}	
+.popularity{
+	position: absolute;
+	top: 250px;
+	left: 400px;
+}	
+.environment{
+	position: absolute;
+	top: 500px;
+	left: 0px;
+}	
+.professional {
+	position: absolute;
+	top: 500px;
+	left: 400px;
+}
+.centering {
+	margin:0 auto;
+	margin-left:auto;
+	margin-right:auto;
+	align:center;
+	text-align:center;
+}
